@@ -10,7 +10,15 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_launcher_icons: ^0.8.0
   cupertino_icons: ^0.1.2
+  http: ^0.12.2
+  geolocator: ^6.0.0+4
+
+flutter_icons:
+  image_path: "icon/icon.png"
+  android: true
+  ios: true
 
 dev_dependencies:
   flutter_test:
